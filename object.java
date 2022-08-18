@@ -1,4 +1,4 @@
-public class CreateObjectExample1   
+public class A  
 {    
 void show()    
 {    
@@ -7,7 +7,7 @@ System.out.println("Welcome to javaTpoint");
 public static void main(String[] args)   
 {    
 //creating an object using new keyword   
-CreateObjectExample1 obj = new CreateObjectExample1();   
+A obj = new A();   
 //invoking method using the object  
 obj.show();    
 }    
