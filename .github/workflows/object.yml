@@ -17,4 +17,4 @@ jobs:
         with:
           java-version: 1.11
       - name: setup java
-        run: ./object.java
+        run: .\object.java
